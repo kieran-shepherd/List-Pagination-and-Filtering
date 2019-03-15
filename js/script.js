@@ -14,7 +14,7 @@ FSJS project 2 - List Filter and Pagination
    should be locally scoped to one of the two main functions you're 
    going to create. A good general rule of thumb is if the variable 
    will only be used inside of a function, then it can be locally 
-   scoped to that function.
+   scoped to that functio.
 ***/
 
 
